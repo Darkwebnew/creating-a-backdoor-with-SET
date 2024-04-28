@@ -1,4 +1,4 @@
-# EX-6.Creating-a-backdoor-with-SET
+# EX-7.Creating-a-backdoor-with-SET
 ## Date:
 creating a backdoor with SET - Ethical Hacking Techniques course
 
