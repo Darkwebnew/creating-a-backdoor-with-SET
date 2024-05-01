@@ -58,9 +58,11 @@ In windows IE, on giving the url http://192.168.1.2, the fake Google page is dis
 
 ![VirtualBox_Windows 7_16_04_2024_08_56_25](https://github.com/Darkwebnew/creating-a-backdoor-with-SET/assets/143114486/ddfca21d-cefc-4324-9b8c-c431c483bdd6)
 
+
 SET logs the information regarding the Google credentials:
 
 ![7_10](https://github.com/Darkwebnew/creating-a-backdoor-with-SET/assets/143114486/032532d3-ebf4-4052-a88d-e165b838bc88)
+
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
